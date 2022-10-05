@@ -1,5 +1,8 @@
 ## 阅读以下文章获取此仓库的具体用法
 
+
+[从一个计时器来了解 React-redux 并实现简单版](https://github.com/xiaochengzi6/blog/issues/31)
+
 (从一个计时器来了解 React-redux 并实现简单版)[https://github.com/xiaochengzi6/blog/issues/31]
 
 redux 源码中为了适应更多的轮子就不得不这样严谨，通过提供一个“厚实”的基础来支持围绕它所开源的作品。
@@ -20,3 +23,6 @@ function reduxThunk({getState, dispatch}){
 }
 ~~~
 next 就是被包装的 dispatch 而 action 可以被看作是 放入 dispatch 函数中的回调函数 
+
+
+
