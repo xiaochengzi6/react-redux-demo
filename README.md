@@ -1,8 +1,9 @@
 ## 阅读以下文章获取此仓库的具体用法
 
 
-[从一个计时器来了解 React-redux 并实现简单版](https://github.com/xiaochengzi6/blog/issues/31)
+`/redux-test` 文件夹存放着 `redux`，`react-redux`,  `redux-tookit` 中的源码可以用于调试
 
+`/src` 现目录下是存放了 `react-tookit` 中的基本用法
 
 
 redux 源码中为了适应更多的轮子就不得不这样严谨，通过提供一个“厚实”的基础来支持围绕它所开源的作品。
